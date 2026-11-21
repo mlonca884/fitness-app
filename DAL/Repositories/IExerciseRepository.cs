@@ -1,6 +1,6 @@
-﻿using FitnessApp.Models;
+﻿using DAL.Models;
 
-namespace FitnessApp.Repositories
+namespace DAL.Repositories
 {
     public interface IExerciseRepository
     {

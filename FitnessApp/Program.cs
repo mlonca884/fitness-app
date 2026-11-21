@@ -1,4 +1,4 @@
-using FitnessApp.Repositories;
+using DAL.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
 

@@ -5,6 +5,8 @@ VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FitnessApp", "FitnessApp.csproj", "{661FCC91-ADC2-410F-BA6B-3DAD1B09B251}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "..\DAL\DAL.csproj", "{79B0E089-2036-4A03-AA24-08C94FA5102B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{661FCC91-ADC2-410F-BA6B-3DAD1B09B251}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{661FCC91-ADC2-410F-BA6B-3DAD1B09B251}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{661FCC91-ADC2-410F-BA6B-3DAD1B09B251}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79B0E089-2036-4A03-AA24-08C94FA5102B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79B0E089-2036-4A03-AA24-08C94FA5102B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79B0E089-2036-4A03-AA24-08C94FA5102B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79B0E089-2036-4A03-AA24-08C94FA5102B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

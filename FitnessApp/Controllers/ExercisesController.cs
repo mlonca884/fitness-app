@@ -1,5 +1,5 @@
-﻿using FitnessApp.Models;
-using FitnessApp.Repositories;
+﻿using DAL.Models;
+using DAL.Repositories;
 using Microsoft.AspNetCore.Mvc;
 
 namespace FitnessApp.Controllers
